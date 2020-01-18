@@ -1,0 +1,22 @@
+.addToCart{
+    &:hover{
+        // background-color: yellow;
+    }
+}
+
+.card{
+    width: 240px;
+     margin: 20px 10px;
+}
+
+.cover-hidden-image{
+    max-width: 100%;
+    visibility: hidden;
+    max-height: 100%;
+}
+
+.hover-effect{
+    &:hover{
+       transform: scale(1.1);
+    }
+}
