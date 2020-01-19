@@ -20,10 +20,10 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock*
 package-lock.json
-/build/bundle.js
-/build/index.html
-/build*
-/build/*
+# /build/bundle.js
+# /build/index.html
+# /build*
+# /build/*
 # Editor/IDE
 .idea
 packages/api/etc/
