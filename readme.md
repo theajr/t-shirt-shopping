@@ -1,5 +1,6 @@
 ### T-Shirt shopping Cart App (just UI)
 
+## [Demo](https://theajr.github.io/t-shirt-shopping/)
 ```sh
 git clone https://github.com/theajr/t-shirt-shopping.git
 cd t-shirt-shopping
